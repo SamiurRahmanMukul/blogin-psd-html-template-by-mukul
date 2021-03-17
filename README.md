@@ -10,4 +10,4 @@
 
 <!-- project link -->
 
-[blogin]:https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project
+[blogin]: https://samiurrahmanmukul.github.io/SamiurRahmanMukul-blogin-psd-html-template-by-mukul/
